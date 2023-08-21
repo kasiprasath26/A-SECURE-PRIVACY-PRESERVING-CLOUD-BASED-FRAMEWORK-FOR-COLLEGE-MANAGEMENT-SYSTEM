@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Student Portal", ".", "{6197900D-A27E-45F9-8AB7-C67771EAE57B}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/Student Portal"
+		Debug.AspNetCompiler.PhysicalPath = "D:\2018\DotNet\Web_Application\Student Portal\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Student Portal\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Student Portal"
+		Release.AspNetCompiler.PhysicalPath = "D:\2018\DotNet\Web_Application\Student Portal\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Student Portal\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "53564"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6197900D-A27E-45F9-8AB7-C67771EAE57B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6197900D-A27E-45F9-8AB7-C67771EAE57B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
